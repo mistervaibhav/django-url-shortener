@@ -1,0 +1,1 @@
+web gunicorn ShortenThatDamnUrl.wsgi:application --log-file -
